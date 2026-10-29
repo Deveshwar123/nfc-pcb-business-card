@@ -1,0 +1,3 @@
+# Fabrication files go to the fab house byte-for-byte; never normalise line endings.
+hardware/gerbers/** -text
+*.png binary
